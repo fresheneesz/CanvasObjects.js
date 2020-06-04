@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "fabric": "^3.6.3",
+    "jcanvas": "^21.0.1",
+    "proto": "^1.0.19",
+    "webpack": "^4.43.0",
+    "xolor": "^1.2.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.3.11"
+  }
+}

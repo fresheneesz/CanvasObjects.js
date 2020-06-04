@@ -1,0 +1,17 @@
+{
+  "name":"canvasobjects",
+  "description": "A canvas view library for drawing objects that can be composed from other object.",
+  "keywords": ["canvas", "drawing", "2d", "composable"],
+  "dependencies": {
+    "proto": "^1.0.19"
+  },
+  "author": "Billy Tetrud <bitetrudpublic@gmail.com> (https://github.com/fresheneesz/)",
+  "license": {
+    "name": "MIT",
+    "url": "http://www.opensource.org/licenses/mit-license.php"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/fresheneesz/CanvasObjects.js"
+  }
+}
